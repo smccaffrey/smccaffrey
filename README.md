@@ -8,8 +8,8 @@
 
 - Full Stack Data Engineer.
 - Trying to bridge the gap between data and its consumers.
-- Currently working in FinTech. Previously worked in CPG, Banking, AdTech, and social.
-- Interesting work happening [here](https://github.com/RefinementHQ) 👀
+- Currently working in AdTech. Previously worked in CPG, Banking, FinTech, and social.
+- Interesting work happening [here](https://gearbin.store) 👀
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
